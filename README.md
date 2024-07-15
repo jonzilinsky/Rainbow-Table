@@ -57,7 +57,8 @@ Experimenting with creating and using a rainbow table for hash algorithm crackin
 <br />
   <li>
     The variance seemed too great from 6 to 8 characters, and the hash for “password” was not cracked. To remedy this I may try to use table_index values 1 through 6 to change the reduction function and generate a more complete set of tables. I could also increase the chain_len and chain_num using a more powerful machine.
-     <br /> For now I am happy at this proof of concept and my experiment with creating a rainbow table.
+     <br />
+    <br />For now I am happy at this proof of concept and my experiment with creating a rainbow table.
     <br />
     <img src="https://github.com/jonzilinsky/pictures/blob/main/rainbow6.png?raw=true" width="600px" alt="Step 6">
   </li>
